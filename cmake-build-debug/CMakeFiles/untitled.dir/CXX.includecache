@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/OOP/untitled/BigNum.cpp
+BigNum.h
+F:/OOP/untitled/BigNum.h
+iostream
+-
+string
+-
+cstdlib
+-
+cmath
+-
+memory.h
+-
+algorithm
+-
+
+F:/OOP/untitled/BigNum.h
+string
+-
+iostream
+-
+
+F:/OOP/untitled/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+BigNum.h
+F:/OOP/untitled/BigNum.h
+
